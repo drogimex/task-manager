@@ -1,3 +1,9 @@
+# Simple Task Manager
+
+#### This project use:
+
+[<img src="https://p14.zdusercontent.com/attachment/1015988/ULFvTe6IkcTcjnwBGknYBxrSl?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..1BJh5XWZWzRNJ8wVspuZBw.LgUpiE962vbM9bEdtvq4bPqk940yr65Y_Eue1OsZSMddo8J9BoiBWbqUByZwCS7F-NobAKhkGS9DezdbTkb8mqpUzSYqNNrbvVsYB3tLtXkwzPge8FRW-01MGbUg4LPRoNqh2CBWQ74rbZwW03Iu-t83LqHtFYdEwv8h7KE7987wf6S1YnWOfJDzFTVKRB0lz6Qe0OT_iJFw55No_8NTGqMfdZ3c90H6hgfsMSlV_XvPl1dWTEU7R4AFmZyRnSpQVYMlSQH3bCSbEoTteIeLfalAC1jyxxZ7Vn--12OqQNQ.DDidh7bt8wxxotcVypNlXg">](https://browserstack.com/)
+
 # Todo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
